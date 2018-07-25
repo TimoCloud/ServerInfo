@@ -8,7 +8,6 @@ import java.io.File;
 /**
  * @author Sebastian
  * Created in 25.07.2018
- * Copyright (c) 2015 - 2018 by CraftMal.de to present. All rights reserved.
  */
 public class FileManager {
     private static final String path = "plugins/ServerInfo/";
