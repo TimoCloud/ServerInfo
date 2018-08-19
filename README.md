@@ -1,5 +1,5 @@
-# CloudNotify
-CloudNotify is an extension of the TimoCloud system. The CloudNotify BungeeCord plugin gives you all information with a command about a server.
+# ServerInfo
+ServerInfo is an extension of the TimoCloud system. The ServerInfo BungeeCord plugin gives you all information with a command about a server.
  
  ## Download
  You can download the latest version [here](https://jenkins.craftmal.de/job/ServerInfo/lastSuccessfulBuild/artifact/target/ServerInfo.jar)
