@@ -1,8 +1,0 @@
-name: ServerInfo
-author: Lasergott
-version: 1.0-SNAPSHOT
-depend: [TimoCloud]
-main: cloud.timo.serverinfo.ServerInfo
-commands:
-  serverinfo:
-    aliases: [si]

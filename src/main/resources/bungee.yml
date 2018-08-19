@@ -1,0 +1,5 @@
+name: ServerInfo
+author: Lasergott
+version: ${project.version}
+depends: [TimoCloud]
+main: cloud.timo.serverinfo.ServerInfo

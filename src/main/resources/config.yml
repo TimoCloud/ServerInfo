@@ -1,0 +1,4 @@
+Prefix: '&8[&aServerInfo&8]&7'
+noPermissions: '&cYou don''t have permissions to do that.'
+serverInfoUsage: '&cPlease use: /serverInfo'
+serverInfoMessage: "Server Info&8: \n &7SocketAddress&8: &a{socketAddress} \n &7Base&8: &a{base} \n &7Port&8: &a{port} \n &7Name&8: &a{name}\n &7OnlinePlayers&8: &a{onlinePlayers}\n &7Group&8: &a{group}\n &7Extra&8: &a{extra}\n &7IpAddress&8: &a{ipAddress}\n &7Map&8: &a{map}\n &7State&8: &a{state}\n &7OnlinePlayerCount&8: &a{onlinePlayerCount}\n &7MaxPlayerCount&8: &a{maxPlayerCount}\n &7Motd&8: &a{motd}"

@@ -1,7 +1,9 @@
 package cloud.timo.serverinfo.managers;
 
-import org.bukkit.ChatColor;
-import org.bukkit.command.CommandSender;
+
+import net.md_5.bungee.api.ChatColor;
+import net.md_5.bungee.api.CommandSender;
+
 
 /**
  * @author Sebastian
